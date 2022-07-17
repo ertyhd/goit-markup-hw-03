@@ -330,6 +330,7 @@ address {
 }
 .portfolio-cards-text {
     padding: 20px 24px;
+    background-color: var(--third-light-color);
 }
 .portfolio-cards-text p {
     margin-top: 4px;
