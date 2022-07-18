@@ -49,6 +49,12 @@ button {
     letter-spacing: 0.03em;
     font-weight: 400;
 }
+.page-portfolio {
+    color: var(--primary-text-color);
+    font-family: Roboto, sans-serif;
+    letter-spacing: 0.03em;
+    font-weight: 400;
+}
 .section-indents {
     padding-top: 94px;
     padding-bottom: 94px;
@@ -334,4 +340,7 @@ address {
 }
 .portfolio-cards-text p {
     margin-top: 4px;
+}
+.header-portfolio {
+    border-bottom: 1px solid #ECECEC;
 }
